@@ -1,0 +1,2 @@
+{"type":"router","name":"UniSwapV2","address":"0x7a250d5630B4cF539739dF2C5dAcb4c659F2488D","network_id":1}
+{"type":"router","name":"SushiSwap","address":"0xd9e1cE17f2641f24aE83637ab66a2cca9C378B9F","network_id":1}

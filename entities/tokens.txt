@@ -1,0 +1,54 @@
+{"type": "token", "name": "COMP", "address": "0xc00e94cb662c3520282e6f5717214004a7f26888", "network_id":1}
+{"type": "token", "name": "BIRD", "address": "0x70401dfd142a16dc7031c56e862fc88cb9537ce0", "network_id":1}
+{"type": "token", "name": "BLOCKS", "address": "0x8a6d4c8735371ebaf8874fbd518b56edd66024eb", "network_id":1}
+{"type": "token", "name": "AAVE", "address": "0x7fc66500c84a76ad7e9c93437bfc5ac33e2ddae9", "network_id":1}
+{"type": "token", "name": "TCR", "address": "0x9c4a4204b79dd291d6b6571c5be8bbcd0622f050", "network_id":1}
+{"type": "token", "name": "YFII", "address": "0xa1d0e215a23d7030842fc67ce582a6afa3ccab83", "network_id":1}
+{"type": "token", "name": "APE", "address": "0x4d224452801aced8b2f0aebe155379bb5d594381", "network_id":1}
+{"type": "token", "name": "UFT", "address": "0x0202be363b8a4820f3f4de7faf5224ff05943ab1", "network_id":1}
+{"type": "token", "name": "TRUE", "address": "0xf65b5c5104c4fafd4b709d9d60a185eae063276c", "network_id":1}
+{"type": "token", "name": "TRAC", "address": "0xaa7a9ca87d3694b5755f213b5d04094b8d0f0a6f", "network_id":1}
+{"type": "token", "name": "CRV", "address": "0xd533a949740bb3306d119cc777fa900ba034cd52", "network_id":1}
+{"type": "token", "name": "GALA", "address": "0x15d4c048f83bd7e37d49ea4c83a07267ec4203da", "network_id":1}
+{"type": "token", "name": "LDO", "address": "0x5a98fcbea516cf06857215779fd812ca3bef1b32", "network_id":1}
+{"type": "token", "name": "USDC", "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", "network_id":1}
+{"type": "token", "name": "SUSHI", "address": "0x6b3595068778dd592e39a122f4f5a5cf09c90fe2", "network_id":1}
+{"type": "token", "name": "YFI", "address": "0x0bc529c00C6401aEF6D220BE8C6Ea1667F6Ad93e", "network_id":1}
+{"type": "token", "name": "MIR", "address": "0x09a3ecafa817268f77be1283176b946c4ff2e608", "network_id":1}
+{"type": "token", "name": "DEGEN", "address": "0x126c121f99e1e211df2e5f8de2d96fa36647c855", "network_id":1}
+{"type": "token", "name": "UST", "address": "0xa47c8bf37f92abed4a126bda807a7b7498661acd", "network_id":1}
+{"type": "token", "name": "RARE", "address": "0xba5bde662c17e2adff1075610382b9b691296350", "network_id":1}
+{"type": "token", "name": "FTT", "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9", "network_id":1}
+{"type": "token", "name": "USDT", "address": "0xdac17f958d2ee523a2206206994597c13d831ec7", "network_id":1}
+{"type": "token", "name": "stETH", "address": "0xae7ab96520de3a18e5e111b5eaab095312d7fe84", "network_id":1}
+{"type": "token", "name": "LUNA", "address": "0xd2877702675e6ceb975b4a1dff9fb7baf4c91ea9", "network_id":1}
+{"type": "token", "name": "DAO", "address": "0x0f51bb10119727a7e5ea3538074fb341f56b09ad", "network_id":1}
+{"type": "token", "name": "VSP", "address": "0x1b40183efb4dd766f11bda7a7c3ad8982e998421", "network_id":1}
+{"type": "token", "name": "DOSE", "address": "0xb31ef9e52d94d4120eb44fe1ddfde5b4654a6515", "network_id":1}
+{"type": "token", "name": "HEX", "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39", "network_id":1}
+{"type": "token", "name": "GRT", "address": "0xc944e90c64b2c07662a292be6244bdf05cda44a7", "network_id":1}
+{"type": "token", "name": "USDC", "address": "0xa0b86991c6218b36c1d19d4a2e9eb0ce3606eb48", "network_id": 1}
+{"type": "token", "name": "DAI", "address": "0x6b175474e89094c44da98b954eedeac495271d0f", "network_id": 1}
+{"type": "token", "name": "USDT", "address": "0xdac17f958d2ee523a2206206994597c13d831ec7", "network_id": 1}
+{"type": "token", "name": "WBTC", "address": "0x2260fac5e5542a773aa44fbcfedf7c193bc2c599", "network_id": 1}
+{"type": "token", "name": "FRAX", "address": "0x853d955acef822db058eb8505911ed77f175b99e", "network_id": 1}
+{"type": "token", "name": "AVINOC", "address": "0xf1ca9cb74685755965c7458528a36934df52a3ef", "network_id": 1}
+{"type": "token", "name": "BUSD", "address": "0x4fabb145d64652a948d72533023f6e7a623c7c53", "network_id": 1}
+{"type": "token", "name": "BTT", "address": "0xc669928185dbce49d2230cc9b0979be6dc797957", "network_id": 1}
+{"type": "token", "name": "GNO", "address": "0x6810e776880c02933d47db1b9fc05908e5386b96", "network_id": 1}
+{"type": "token", "name": "MKR", "address": "0x9f8f72aa9304c8b593d555f12ef6589cc3a579a2", "network_id": 1}
+{"type": "token", "name": "renBTC", "address": "0xeb4c2781e4eba804ce9a9803c67d0893436bb27d", "network_id": 1}
+{"type": "token", "name": "UNI", "address": "0x1f9840a85d5af5bf1d1762f925bdaddc4201f984", "network_id": 1}
+{"type": "token", "name": "RPL", "address": "0xb4efd85c19999d84251304bda99e90b92300bd93", "network_id": 1}
+{"type": "token", "name": "1INCH", "address": "0x111111111117dc0aa78b770fa6a738034120c302", "network_id": 1}
+{"type": "token", "name": "SHIB", "address": "0x95ad61b0a150d79219dcf64e1e6cc01f0b64c4ce", "network_id": 1}
+{"type": "token", "name": "FTX Token", "address": "0x50d1c9771902476076ecfc8b2a83ad6b9355a4c9", "network_id": 1}
+{"type": "token", "name": "RAI", "address": "0x03ab458634910aad20ef5f1c8ee96f1d6ac54919", "network_id": 1}
+{"type": "token", "name": "WDOGE", "address": "0x35a532d376ffd9a705d0bb319532837337a398e7", "network_id": 1}
+{"type": "token", "name": "COMP", "address": "0xc00e94cb662c3520282e6f5717214004a7f26888", "network_id": 1}
+{"type": "token", "name": "HEX", "address": "0x2b591e99afe9f32eaa6214f7b7629768c40eeb39", "network_id": 1}
+{"type": "token", "name": "LINK", "address": "0x514910771af9ca656af840dff83e8264ecf986ca", "network_id": 1}
+{"type": "token", "name": "MATIC", "address": "0x7d1afa7b718fb893db30a3abc0cfc608aacfebb0", "network_id": 1}
+{"type": "token", "name": "TUSD", "address": "0x0000000000085d4780b73119b644ae5ecd22b376", "network_id": 1}
+{"type": "token", "name": "BADGER", "address": "0x3472a5a71965499acd81997a54bba8d852c6e53d", "network_id": 1}
+{"type": "token", "name": "ENS", "address": "0xc18360217d8f7ab5e7c516566761ea12ce7f9d72", "network_id": 1}
